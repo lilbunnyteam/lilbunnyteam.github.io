@@ -1,6 +1,7 @@
 [
     {
         "name": "Robinson",
+        "poi": "Robinson Mall",
         "streetAddress": "100 Robinson Centre Dr Space # 1235",
         "city": "Pittsburgh",
         "state": "PA",
@@ -54,6 +55,7 @@
     },
     {
         "name": "Monroeville",
+        "poi": "Monroeville Mall",
         "address": "200 Mall Cir Dr #246",
         "city": "Monroeville",
         "state": "PA",
