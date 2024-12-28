@@ -8,7 +8,7 @@
         "zipCode": "15205",
         "phone": "412-418-4701",
         "email": "lilbunnyteam@gmail.com",
-        "week": [
+        "days": [
             {
                 "day": "Sunday",
                 "hours": [
@@ -146,7 +146,7 @@
         "zipCode": "15146",
         "phone": "412-377-9728",
         "email": "lilbunnyteam@gmail.com",
-        "week": [
+        "days": [
             {
                 "day": "Sunday",
                 "hours": [
