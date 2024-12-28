@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Robinson",
+        "week": [
+            {
+                "day": "Sunday",
+                "hours": [
+                    "11 AM - 6 PM"
+                ]
+            },
+            {
+                "day": "Monday",
+                "hours": [
+                    "10 AM - 8 PM"
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "hours": [
+                    "10 AM - 8 PM"
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "hours": [
+                    "10 AM - 8 PM"
+                ]
+            },
+            {
+                "day": "Thursday",
+                "hours": [
+                    "10 AM - 8 PM"
+                ]
+            },
+            {
+                "day": "Friday",
+                "hours": [
+                    "10 AM - 8 PM"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "hours": [
+                    "10 AM - 8 PM"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Monroeville",
+        "week": [
+            {
+                "day": "Sunday",
+                "hours": [
+                    "12 PM - 6 PM"
+                ]
+            },
+            {
+                "day": "Monday",
+                "hours": [
+                    "1 PM - 7 PM"
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "hours": [
+                    "1 PM - 7 PM"
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "hours": [
+                    "1 PM - 7 PM"
+                ]
+            },
+            {
+                "day": "Thursday",
+                "hours": [
+                    "1 PM - 7 PM"
+                ]
+            },
+            {
+                "day": "Friday",
+                "hours": [
+                    "1 PM - 7 PM"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "hours": [
+                    "11:30 AM - 7 PM"
+                ]
+            }
+        ]
+    }
+]
