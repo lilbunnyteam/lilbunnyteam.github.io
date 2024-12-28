@@ -1,6 +1,12 @@
 [
     {
         "name": "Robinson",
+        "streetAddress": "100 Robinson Centre Dr Space # 1235",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zipCode": "15205",
+        "phone": "412-418-4701",
+        "email": "lilbunnyteam@gmail.com",
         "week": [
             {
                 "day": "Sunday",
@@ -48,6 +54,12 @@
     },
     {
         "name": "Monroeville",
+        "address": "200 Mall Cir Dr #246",
+        "city": "Monroeville",
+        "state": "PA",
+        "zipCode": "15146",
+        "phone": "412-377-9728",
+        "email": "lilbunnyteam@gmail.com",
         "week": [
             {
                 "day": "Sunday",
