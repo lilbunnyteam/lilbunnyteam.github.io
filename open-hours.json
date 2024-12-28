@@ -13,42 +13,126 @@
                 "day": "Sunday",
                 "hours": [
                     "11 AM - 6 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Monday",
                 "hours": [
                     "10 AM - 8 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$8",
+                        "additionalHour": "$4"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    }
                 ]
             },
             {
                 "day": "Tuesday",
                 "hours": [
                     "10 AM - 8 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$8",
+                        "additionalHour": "$4"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    }
                 ]
             },
             {
                 "day": "Wednesday",
                 "hours": [
                     "10 AM - 8 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$8",
+                        "additionalHour": "$4"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    }
                 ]
             },
             {
                 "day": "Thursday",
                 "hours": [
                     "10 AM - 8 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$8",
+                        "additionalHour": "$4"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    }
                 ]
             },
             {
                 "day": "Friday",
                 "hours": [
                     "10 AM - 8 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Saturday",
                 "hours": [
                     "10 AM - 8 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             }
         ]
@@ -67,42 +151,126 @@
                 "day": "Sunday",
                 "hours": [
                     "12 PM - 6 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Monday",
                 "hours": [
                     "1 PM - 7 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Tuesday",
                 "hours": [
                     "1 PM - 7 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Wednesday",
                 "hours": [
                     "1 PM - 7 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Thursday",
                 "hours": [
                     "1 PM - 7 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Friday",
                 "hours": [
                     "1 PM - 7 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             },
             {
                 "day": "Saturday",
                 "hours": [
                     "11:30 AM - 7 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
                 ]
             }
         ]
