@@ -25,7 +25,8 @@
                         "hourlyRate": "$12",
                         "additionalHour": "$6"
                     }
-                ]
+                ],
+                "siblingDiscount": "$5"
             },
             {
                 "day": "Monday",
@@ -43,7 +44,8 @@
                         "hourlyRate": "$10",
                         "additionalHour": "$5"
                     }
-                ]
+                ],
+                "siblingDiscount": "$4"
             },
             {
                 "day": "Tuesday",
@@ -61,7 +63,8 @@
                         "hourlyRate": "$10",
                         "additionalHour": "$5"
                     }
-                ]
+                ],
+                "siblingDiscount": "$4"
             },
             {
                 "day": "Wednesday",
@@ -79,7 +82,8 @@
                         "hourlyRate": "$10",
                         "additionalHour": "$5"
                     }
-                ]
+                ],
+                "siblingDiscount": "$4"
             },
             {
                 "day": "Thursday",
@@ -97,7 +101,8 @@
                         "hourlyRate": "$10",
                         "additionalHour": "$5"
                     }
-                ]
+                ],
+                "siblingDiscount": "$4"
             },
             {
                 "day": "Friday",
@@ -115,7 +120,8 @@
                         "hourlyRate": "$12",
                         "additionalHour": "$6"
                     }
-                ]
+                ],
+                "siblingDiscount": "$5"
             },
             {
                 "day": "Saturday",
@@ -133,7 +139,8 @@
                         "hourlyRate": "$12",
                         "additionalHour": "$6"
                     }
-                ]
+                ],
+                "siblingDiscount": "$5"
             }
         ]
     },
@@ -163,7 +170,8 @@
                         "hourlyRate": "$12",
                         "additionalHour": "$5"
                     }
-                ]
+                ],
+                "siblingDiscount": "$4"
             },
             {
                 "day": "Monday",
@@ -181,7 +189,8 @@
                         "hourlyRate": "$10",
                         "additionalHour": "$4"
                     }
-                ]
+                ],
+                "siblingDiscount": "$3"
             },
             {
                 "day": "Tuesday",
@@ -199,7 +208,8 @@
                         "hourlyRate": "$10",
                         "additionalHour": "$4"
                     }
-                ]
+                ],
+                "siblingDiscount": "$3"
             },
             {
                 "day": "Wednesday",
@@ -217,7 +227,8 @@
                         "hourlyRate": "$8",
                         "additionalHour": "$4"
                     }
-                ]
+                ],
+                "siblingDiscount": "$3"
             },
             {
                 "day": "Thursday",
@@ -235,7 +246,8 @@
                         "hourlyRate": "$8",
                         "additionalHour": "$4"
                     }
-                ]
+                ],
+                "siblingDiscount": "$3"
             },
             {
                 "day": "Friday",
@@ -253,7 +265,8 @@
                         "hourlyRate": "$12",
                         "additionalHour": "$5"
                     }
-                ]
+                ],
+                "siblingDiscount": "$4"
             },
             {
                 "day": "Saturday",
@@ -271,7 +284,8 @@
                         "hourlyRate": "$12",
                         "additionalHour": "$5"
                     }
-                ]
+                ],
+                "siblingDiscount": "$4"
             }
         ]
     },
