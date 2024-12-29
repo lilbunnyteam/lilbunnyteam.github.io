@@ -274,5 +274,15 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Party space - Monroeville",
+        "poi": "Monroeville Mall",
+        "streetAddress": "200 Mall Cir Dr #256",
+        "city": "Monroeville",
+        "state": "PA",
+        "zipCode": "15146",
+        "phone": "412-377-9728",
+        "email": "lilbunnyteam@gmail.com"
     }
 ]
