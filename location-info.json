@@ -140,7 +140,7 @@
     {
         "name": "Monroeville",
         "poi": "Monroeville Mall",
-        "address": "200 Mall Cir Dr #246",
+        "streetAddress": "200 Mall Cir Dr #246",
         "city": "Monroeville",
         "state": "PA",
         "zipCode": "15146",
