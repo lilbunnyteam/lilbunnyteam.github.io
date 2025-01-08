@@ -50,7 +50,7 @@
             {
                 "day": "Tuesday",
                 "hours": [
-                    "10 AM - 5 PM"
+                    "10 AM - 8 PM"
                 ],
                 "rates": [
                     {
@@ -69,7 +69,7 @@
             {
                 "day": "Wednesday",
                 "hours": [
-                    "10 AM - 6 PM"
+                    "10 AM - 8 PM"
                 ],
                 "rates": [
                     {
@@ -195,7 +195,7 @@
             {
                 "day": "Tuesday",
                 "hours": [
-                    "Closed for New Years Eve"
+                    "1 PM - 7 PM"
                 ],
                 "rates": [
                     {
@@ -214,7 +214,7 @@
             {
                 "day": "Wednesday",
                 "hours": [
-                    "Closed. We will open tomorrow. Happy Holidays."
+                    "1 PM - 7 PM"
                 ],
                 "rates": [
                     {
