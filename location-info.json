@@ -10,25 +10,6 @@
         "email": "lilbunnyteam@gmail.com",
         "days": [
             {
-                "day": "Sunday",
-                "hours": [
-                    "11 AM - 4 PM"
-                ],
-                "rates": [
-                    {
-                        "name": "Kids under 2 years",
-                        "hourlyRate": "$10",
-                        "additionalHour": "$5"
-                    },
-                    {
-                        "name": "3 to 10 years",
-                        "hourlyRate": "$12",
-                        "additionalHour": "$6"
-                    }
-                ],
-                "siblingDiscount": "$5"
-            },
-            {
                 "day": "Monday",
                 "hours": [
                     "10 AM - 8 PM"
@@ -143,6 +124,25 @@
                     }
                 ],
                 "siblingDiscount": "$5"
+            },
+            {
+                "day": "Sunday",
+                "hours": [
+                    "11 AM - 4 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$6"
+                    }
+                ],
+                "siblingDiscount": "$5"
             }
         ]
     },
@@ -156,25 +156,6 @@
         "phone": "412-377-9728",
         "email": "lilbunnyteam@gmail.com",
         "days": [
-            {
-                "day": "Sunday",
-                "hours": [
-                    "12 PM - 4 PM"
-                ],
-                "rates": [
-                    {
-                        "name": "Kids under 2 years",
-                        "hourlyRate": "$10",
-                        "additionalHour": "$5"
-                    },
-                    {
-                        "name": "3 to 10 years",
-                        "hourlyRate": "$12",
-                        "additionalHour": "$5"
-                    }
-                ],
-                "siblingDiscount": "$4"
-            },
             {
                 "day": "Monday",
                 "hours": [
@@ -274,6 +255,25 @@
                 "day": "Saturday",
                 "hours": [
                     "11:30 AM - 7 PM"
+                ],
+                "rates": [
+                    {
+                        "name": "Kids under 2 years",
+                        "hourlyRate": "$10",
+                        "additionalHour": "$5"
+                    },
+                    {
+                        "name": "3 to 10 years",
+                        "hourlyRate": "$12",
+                        "additionalHour": "$5"
+                    }
+                ],
+                "siblingDiscount": "$4"
+            },
+            {
+                "day": "Sunday",
+                "hours": [
+                    "12 PM - 4 PM"
                 ],
                 "rates": [
                     {
