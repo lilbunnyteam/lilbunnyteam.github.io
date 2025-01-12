@@ -12,7 +12,7 @@
             {
                 "day": "Monday",
                 "hours": [
-                    "10 AM - 8 PM,"
+                    "10 AM - 8 PM"
                 ],
                 "rates": [
                     {
@@ -128,7 +128,8 @@
             {
                 "day": "Sunday",
                 "hours": [
-                    "11 AM - 4 PM"
+                    "11 AM - 4 PM",
+                     "5 PM  - 6 PM, Closed for Private Paty"
                 ],
                 "rates": [
                     {
