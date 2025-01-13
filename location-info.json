@@ -160,7 +160,7 @@
             {
                 "day": "Monday",
                 "hours": [
-                    "1 PM - 7 PM"
+                    "01:00 PM - 7:00 PM"
                 ],
                 "rates": [
                     {
@@ -179,7 +179,7 @@
             {
                 "day": "Tuesday",
                 "hours": [
-                    "1 PM - 7 PM"
+                    "01:00 PM - 07:00 PM"
                 ],
                 "rates": [
                     {
@@ -198,7 +198,7 @@
             {
                 "day": "Wednesday",
                 "hours": [
-                    "1 PM - 7 PM"
+                    "01:00 PM - 07:00 PM"
                 ],
                 "rates": [
                     {
@@ -217,7 +217,7 @@
             {
                 "day": "Thursday",
                 "hours": [
-                    "1 PM - 7 PM"
+                    "01:00 PM - 07:00 PM"
                 ],
                 "rates": [
                     {
@@ -236,7 +236,7 @@
             {
                 "day": "Friday",
                 "hours": [
-                    "1 PM - 7 PM"
+                    "01:00 PM - 07:00 PM"
                 ],
                 "rates": [
                     {
@@ -255,7 +255,7 @@
             {
                 "day": "Saturday",
                 "hours": [
-                    "11:30 AM - 7 PM"
+                    "11:30 AM - 07:00 PM"
                 ],
                 "rates": [
                     {
@@ -274,7 +274,7 @@
             {
                 "day": "Sunday",
                 "hours": [
-                    "12 PM - 4 PM"
+                    "12:00 PM - 04:00 PM"
                 ],
                 "rates": [
                     {
