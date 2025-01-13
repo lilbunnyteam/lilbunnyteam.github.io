@@ -50,7 +50,7 @@
             {
                 "day": "Wednesday",
                 "hours": [
-                    "10 AM - 8 PM"
+                    "10:00 AM - 08:00 PM"
                 ],
                 "rates": [
                     {
@@ -255,7 +255,7 @@
             {
                 "day": "Saturday",
                 "hours": [
-                    "11:30 AM - 07:00 PM"
+                    "11:30 AM - 08:00 PM"
                 ],
                 "rates": [
                     {
@@ -274,7 +274,7 @@
             {
                 "day": "Sunday",
                 "hours": [
-                    "12:00 PM - 07:00 PM"
+                    "12:00 PM - 06:00 PM"
                 ],
                 "rates": [
                     {
