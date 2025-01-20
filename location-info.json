@@ -198,7 +198,7 @@
             {
                 "day": "Wednesday",
                 "hours": [
-                    "02:00 PM - 07:00 PM"
+                    "01:00 PM - 07:00 PM"
                 ],
                 "rates": [
                     {
@@ -217,7 +217,8 @@
             {
                 "day": "Thursday",
                 "hours": [
-                    "Closed due to weather"
+                    "01:00 PM - 07:00 PM"
+                    
                 ],
                 "rates": [
                     {
