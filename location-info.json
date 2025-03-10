@@ -129,6 +129,7 @@
                 "day": "Sunday",
                 "hours": [
                     "11:00 AM - 12:00 PM",
+                    "12:00 PM - 03:00 PM Closed for Private Pary",
                     "03:00 PM - 04:00 PM"
                 ],
                 "rates": [
@@ -255,9 +256,7 @@
             {
                 "day": "Saturday",
                 "hours": [
-                    "11:00 AM - 12:00 PM",
-                    "12:00 PM - 03:00 PM  Closed for Private Party",
-                    "03:00 PM - 08:00 PM"
+                    "03:00 PM - 07:00 PM"
                     
                 ],
                 "rates": [
@@ -277,7 +276,7 @@
             {
                 "day": "Sunday",
                 "hours": [
-                    "12:00 PM - 04:00 PM"
+                    "01:00 PM - 04:00 PM"
                 ],
                 "rates": [
                     {
