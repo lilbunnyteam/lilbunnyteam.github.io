@@ -127,7 +127,7 @@
             {
                 "day": "Sunday",
                 "hours": [
-                    "11:00 AM - 7:00 PM"
+                    "11:00 AM - 6:00 PM"
                 ],
                 "rates": [
                     {
@@ -253,7 +253,7 @@
             {
                 "day": "Saturday",
                 "hours": [
-                    "03:00 PM - 07:00 PM"
+                    "02:00 PM - 07:00 PM"
                 ],
                 "rates": [
                     {
