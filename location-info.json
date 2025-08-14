@@ -146,13 +146,14 @@
     },
     {
         "name": "Monroeville",
-        "poi": "Monroeville Mall",
+        "poi": "Monroeville Mall  - End of Summer Sale: Monday to Thursday - BOGO - Pay for ONE hour and Stay for TWO
+",
         "streetAddress": "200 Mall Cir Dr #246",
         "city": "Monroeville",
         "state": "PA",
         "zipCode": "15146",
         "phone": "412-377-9728",
-        "email": "lilbunnyteam@gmail.com,   End of Summer Sale: Monday to Thursday - BOGO - Pay for ONE hour and Stay for TWO",   
+        "email": "lilbunnyteam@gmail.com",
         "days": [
             {
                 "day": "Monday",
