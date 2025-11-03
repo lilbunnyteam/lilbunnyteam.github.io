@@ -18,12 +18,12 @@
                     {
                         "name": "Kids under 2 years",
                         "hourlyRate": "$8",
-                        "additionalHour": "$4"
+                        "additional half Hour": "$4"
                     },
                     {
                         "name": "3 to 10 years",
                         "hourlyRate": "$10",
-                        "additionalHour": "$5"
+                        "additional half Hour": "$5"
                     }
                 ],
                 "siblingDiscount": "$4"
@@ -37,15 +37,15 @@
                     {
                         "name": "Kids under 2 years",
                         "hourlyRate": "$8",
-                        "additionalHour": "$4"
+                        "additional half Hour": "$4"
                     },
                     {
                         "name": "3 to 10 years",
                         "hourlyRate": "$10",
-                        "additionalHour": "$5"
+                        "additional half Hour": "$5"
                     }
                 ],
-                "siblingDiscount": "$4"
+                "                ": " "
             },
             {
                 "day": "Wednesday",
@@ -56,12 +56,12 @@
                     {
                         "name": "Kids under 2 years",
                         "hourlyRate": "$8",
-                        "additionalHour": "$4"
+                        "additional half Hour": "$4"
                     },
                     {
                         "name": "3 to 10 years",
                         "hourlyRate": "$10",
-                        "additionalHour": "$5"
+                        "additional half Hour": "$5"
                     }
                 ],
                 "siblingDiscount": "$4"
@@ -107,7 +107,7 @@
             {
                 "day": "Saturday",
                 "hours": [
-                    "10:00 AM to 08:00 PM"
+                    "10:00 AM to 12:00 PM"
                 ],
                 "rates": [
                     {
@@ -271,8 +271,8 @@
             {
                 "day": "Sunday",
                 "hours": [
-                    "12:00 PM to 04:00 PM",
-                    "04:00 PM to 06:00 PM Closed for Private Party"
+                    "11:00 PM to 06:00 PM",
+                    "  "
                 ],
                 "rates": [
                     {
