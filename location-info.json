@@ -131,9 +131,7 @@
                 "day": "Sunday",
                 "hours": [
                     "11:00 AM to 12:00 PM",
-                    "12:00 PM to 03:00 PM Closed for Private Party",
-                    "03:00 PM to 04:00 PM",
-                    "04:00 PM to 06:00 PM Closed for Private Party"
+                    "12:00 PM to 06:00 PM Closed for Private Party"
                 ],
                 "rates": [
                     {
