@@ -109,9 +109,7 @@
             {
                 "day": "Saturday",
                 "hours": [
-                    "10:00 AM to 04:00 PM",
-                    "04:00 PM to 7:00 PM Cloosed for Privae Party",
-                    "07:00 PM to 08:00 PM"
+                    "10:00 AM to 08:00 PM"
                 ],
                 "rates": [
                     {
@@ -130,7 +128,7 @@
             {
                 "day": "Sunday",
                 "hours": [
-                    "Closed" 
+                    "11:00 AM to 06:00 PM" 
                 ],
                 "rates": [
                     {
